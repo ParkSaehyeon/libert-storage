@@ -1,3 +1,6 @@
 {
-  "now_content": "육망성 전투"
+  "now_content": {
+    "name": "육망성 전투",
+    "path": "./육망성"
+  }
 }
